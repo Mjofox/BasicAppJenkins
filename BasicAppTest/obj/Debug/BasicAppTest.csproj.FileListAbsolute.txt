@@ -1,0 +1,18 @@
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\BasicAppTest.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\BasicAppTest.pdb
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\MF Basic App GitHubJenkins.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\MF Basic App GitHubJenkins.pdb
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\MF Basic App GitHubJenkins.dll.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\obj\Debug\BasicAppTest.csproj.AssemblyReference.cache
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\obj\Debug\BasicAppTest.csproj.CoreCompileInputs.cache
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\obj\Debug\BasicAppTest.csproj.CopyComplete
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\obj\Debug\BasicAppTest.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\BasicAppTest\obj\Debug\BasicAppTest.pdb

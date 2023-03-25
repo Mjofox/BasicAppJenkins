@@ -1,0 +1,59 @@
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\MF Basic App GitHubJenkins.dll.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\MF Basic App GitHubJenkins.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\MF Basic App GitHubJenkins.pdb
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csc.exe
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csc.exe.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csc.rsp
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csi.exe
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csi.exe.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\csi.rsp
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.AppContext.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Console.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.IO.Compression.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Net.Http.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Net.Sockets.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.ValueTuple.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\vbc.exe
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\vbc.exe.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\vbc.rsp
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\VBCSCompiler.exe
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\obj\Debug\MF Basic App GitHubJenkins.csproj.AssemblyReference.cache
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\obj\Debug\MF Basic App GitHubJenkins.csproj.CoreCompileInputs.cache
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\obj\Debug\MF Basic App GitHubJenkins.csproj.CopyComplete
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\obj\Debug\MF Basic App GitHubJenkins.dll
+C:\Users\mattfox\source\repos\MF Basic App GitHubJenkins\MF Basic App GitHubJenkins\obj\Debug\MF Basic App GitHubJenkins.pdb
